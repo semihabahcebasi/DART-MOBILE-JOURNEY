@@ -31,7 +31,7 @@ Metotlar: Sınıf içindeki verileri kullanarak işlem yapan özel fonksiyonlar�
 
 Koleksiyonlarda Nesne Kullanımı: Oluşturulan nesneleri listeler içinde tutma ve for-in döngüsü ile bu nesneler üzerinde gezinme.
 
-//////
+
     Gün 1: Dart Temelleri
 Bugün Dart dilinin temel yapı taşlarını öğrendim:
 
